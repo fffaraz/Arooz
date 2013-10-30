@@ -1,4 +1,5 @@
 Arooz
 =====
 
-Persian Poems Prosody Recognition
+Persian/Arabic Poems Prosody Recognition
+
